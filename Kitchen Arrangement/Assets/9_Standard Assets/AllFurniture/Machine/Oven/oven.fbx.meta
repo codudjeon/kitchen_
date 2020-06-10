@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d9c89e03e4de8ae41abce07db97885f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group3
+    100002: group4
+    100004: //RootNode
+    100006: pCube297
+    100008: pCube298
+    100010: pCube301
+    100012: pCube302
+    100014: pCube305
+    100016: pCube307
+    100018: pCube307 1
+    100020: pCylinder8
+    100022: pCylinder8 1
+    100024: polySurface1
+    100026: body
+    100028: button
+    100030: button 1
+    100032: button 2
+    100034: button 3
+    100036: door
+    100038: glass
+    100040: handle
+    100042: Mesh
+    100044: Mesh 1
+    100046: Mesh 2
+    100048: Mesh 3
+    100050: panel
+    100052: piano
+    100054: Texture Group
+    400000: group3
+    400002: group4
+    400004: //RootNode
+    400006: pCube297
+    400008: pCube298
+    400010: pCube301
+    400012: pCube302
+    400014: pCube305
+    400016: pCube307
+    400018: pCube307 1
+    400020: pCylinder8
+    400022: pCylinder8 1
+    400024: polySurface1
+    400026: body
+    400028: button
+    400030: button 1
+    400032: button 2
+    400034: button 3
+    400036: door
+    400038: glass
+    400040: handle
+    400042: Mesh
+    400044: Mesh 1
+    400046: Mesh 2
+    400048: Mesh 3
+    400050: panel
+    400052: piano
+    400054: Texture Group
+    2100000: blinn9
+    2100002: lambert1
+    2100004: orange varnish
+    2100006: dark glass
+    2100008: white varnish
+    2100010: dark marble
+    2300000: pCube297
+    2300002: pCube298
+    2300004: pCube301
+    2300006: pCube302
+    2300008: pCube305
+    2300010: pCube307
+    2300012: pCube307 1
+    2300014: pCylinder8
+    2300016: pCylinder8 1
+    2300018: polySurface1
+    2300020: body
+    2300022: button
+    2300024: button 1
+    2300026: button 2
+    2300028: button 3
+    2300030: door
+    2300032: glass
+    2300034: handle
+    2300036: Mesh
+    2300038: Mesh 1
+    2300040: Mesh 2
+    2300042: Mesh 3
+    2300044: panel
+    2300046: piano
+    3300000: pCube297
+    3300002: pCube298
+    3300004: pCube301
+    3300006: pCube302
+    3300008: pCube305
+    3300010: pCube307
+    3300012: pCube307 1
+    3300014: pCylinder8
+    3300016: pCylinder8 1
+    3300018: polySurface1
+    3300020: body
+    3300022: button
+    3300024: button 1
+    3300026: button 2
+    3300028: button 3
+    3300030: door
+    3300032: glass
+    3300034: handle
+    3300036: Mesh
+    3300038: Mesh 1
+    3300040: Mesh 2
+    3300042: Mesh 3
+    3300044: panel
+    3300046: piano
+    4300000: pCube297
+    4300002: pCube298
+    4300004: pCube301
+    4300006: pCube302
+    4300008: pCube305
+    4300010: pCube307
+    4300012: pCylinder8
+    4300014: pCube307
+    4300016: pCylinder8
+    4300018: polySurface1
+    4300020: door
+    4300022: glass
+    4300024: handle
+    4300026: body
+    4300028: panel
+    4300030: button
+    4300032: button
+    4300034: button
+    4300036: button
+    4300038: Mesh
+    4300040: Mesh
+    4300042: Mesh
+    4300044: Mesh
+    4300046: piano
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

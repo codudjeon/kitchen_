@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 49d403684c71d4440b29b93512e3c8ad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: Camera002
+    100006: Camera002.Target
+    100008: Camera003
+    100010: Camera003.Target
+    100012: Camera004
+    100014: Camera004.Target
+    100016: //RootNode
+    100018: Jug for milk
+    100020: Jug for milk 1
+    100022: Milk
+    100024: Omni001
+    100026: Omni002
+    100028: Podium
+    100030: VRayLight001
+    100032: VRayLight001.Target
+    100034: VRayLight002
+    100036: VRayLight002.Target
+    100038: VRayLight003
+    100040: VRayLight003.Target
+    100042: VRayPlane001
+    100044: VRayPlane002
+    100046: VRayPlane003
+    400000: Camera001
+    400002: Camera001.Target
+    400004: Camera002
+    400006: Camera002.Target
+    400008: Camera003
+    400010: Camera003.Target
+    400012: Camera004
+    400014: Camera004.Target
+    400016: //RootNode
+    400018: Jug for milk
+    400020: Jug for milk 1
+    400022: Milk
+    400024: Omni001
+    400026: Omni002
+    400028: Podium
+    400030: VRayLight001
+    400032: VRayLight001.Target
+    400034: VRayLight002
+    400036: VRayLight002.Target
+    400038: VRayLight003
+    400040: VRayLight003.Target
+    400042: VRayPlane001
+    400044: VRayPlane002
+    400046: VRayPlane003
+    2000000: Camera001
+    2000002: Camera002
+    2000004: Camera003
+    2000006: Camera004
+    2100000: Podium
+    2100002: Milk
+    2100004: Porcelain white
+    2300000: Jug for milk 1
+    2300002: Milk
+    2300004: Podium
+    3300000: Jug for milk 1
+    3300002: Milk
+    3300004: Podium
+    4300000: Podium
+    4300002: Milk
+    4300004: Jug for milk
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni001
+    10800002: Omni002
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+    6000828045688606270: Camera003
+    6000828045688606272: Camera004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
