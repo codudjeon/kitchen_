@@ -542,61 +542,61 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.18f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -776,13 +776,13 @@
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.18f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/CHAEYOUNG/Documents/GitHub/DEMODAY/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/CHAEYOUNG/Documents/GitHub/kitchen_/Kitchen Arrangement/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.18f1/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
