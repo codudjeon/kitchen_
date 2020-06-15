@@ -56,6 +56,15 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\2.Script\Delete_firstmessage.cs" />
+     <Compile Include="Assets\2.Script\Log\CommonDataLogger.cs" />
+     <Compile Include="Assets\2.Script\Log\EventCategory.cs" />
+     <Compile Include="Assets\2.Script\Log\EventLog.cs" />
+     <Compile Include="Assets\2.Script\Log\EventLogger.cs" />
+     <Compile Include="Assets\2.Script\Log\EventVerb.cs" />
+     <Compile Include="Assets\2.Script\Log\Extensions.cs" />
+     <Compile Include="Assets\2.Script\Log\LogManager.cs" />
+     <Compile Include="Assets\2.Script\Log\TrajectoryLogger.cs" />
+     <Compile Include="Assets\2.Script\Log\TrajectoryLoggerTemplate.cs" />
      <Compile Include="Assets\2.Script\SceneChange.cs" />
      <Compile Include="Assets\9_Standard Assets\AllFurniture\Clock\Scripts\Clock.cs" />
      <Compile Include="Assets\9_Standard Assets\Shelf and Shelving Collection\Scripts\RotateMoveCamera.cs" />
