@@ -14162,7 +14162,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: dedaaa97d44dc4e42848e25404c39325, type: 2}
+  - {fileID: 2100000, guid: b1ccf2496635b4969a21d1d7c3174b9c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31399,7 +31399,7 @@ GameObject:
   - component: {fileID: 2033670092}
   - component: {fileID: 2033670119}
   m_Layer: 0
-  m_Name: Bowl_3
+  m_Name: Dish_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38178,11 +38178,11 @@ GameObject:
   - component: {fileID: 64410258998094136}
   - component: {fileID: 1510507799441861}
   m_Layer: 0
-  m_Name: Bowl_1
+  m_Name: Dish_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 1
   m_IsActive: 1
 --- !u!114 &1510507799441861
 MonoBehaviour:
@@ -41545,7 +41545,7 @@ GameObject:
   - component: {fileID: 64123268867775026}
   - component: {fileID: 1960955737130785}
   m_Layer: 0
-  m_Name: Bowl_2
+  m_Name: Dish_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
