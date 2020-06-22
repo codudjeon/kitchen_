@@ -8,13 +8,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/1_Scenes/Info.unity
-    guid: d494b2f8e3bd54d49b41bbdb835e48c1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/1_Scenes/Practice.unity
     guid: 70e7137ba16314716b835d0a11976c6f
   - enabled: 1
     path: Assets/1_Scenes/Main.unity
     guid: cb29b2299fcea4f278e464bcbd38be02
+  - enabled: 1
+    path: Assets/1_Scenes/Manager.unity
+    guid: 33a5f38c0a48346c08c53b1a143668b7
+  - enabled: 1
+    path: Assets/1_Scenes/Info.unity
+    guid: da17c3863aafd4ce49b4113ff503e72e
   m_configObjects: {}
