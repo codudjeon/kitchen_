@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ScenechangeVR : MonoBehaviour
+public class ScenechangeGOtraining : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Training");
     }
 
 }
