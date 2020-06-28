@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BusinessWoman
+  m_Controller: {fileID: 9100000, guid: 48296831efb5c3649b5fdf1439c4bc93, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39716f5127c00e54cab360c43cebd76f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f67eebde792be11419c29014af5a8856, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 811f33825c46aef4b8edddbba6d9d254, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b8de7bed72f8a445b3a4b0f87b2d0df, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c365462c739fdfd42b47e2f737650698, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c4af95c1bdbe19a4c8c61e5d7366ea97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1d95ed62d365de44b51b68f06ae433e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c292015dfd1e9f543a273e0931686cdc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9251803e05b57be48bb32f5308fb0f56, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9054a1145492c04490ef8e1e68a4ac2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e424931c53da3334c8c8cb8754e55711, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22e9871d81a99924a808b98acaddd6a3, type: 2}

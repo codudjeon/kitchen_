@@ -515,6 +515,7 @@
      <Compile Include="Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseDefines.cs" />
      <Compile Include="Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
+     <None Include="Assets\Install Bolt\README.txt" />
      <None Include="Assets\9_Standard Assets\Running_Pipe_And_Tap_Water_FX\Running_Pipe_And_Tap_Water_FX - Documentation.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
@@ -547,6 +548,7 @@
      <None Include="Assets\SteamVR\readme.txt" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
      <None Include="Assets\VRTK\Source\Scripts\Internal\Shaders\Unlit_TransparentColor.shader" />
+     <None Include="Assets\Install Bolt\LICENSES.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
      <None Include="Assets\1_Scenes\New Unity Project\ProjectSettings\ProjectVersion.txt" />
