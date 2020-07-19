@@ -62,6 +62,7 @@
      <Compile Include="Assets\2.Script\Log\EventVerb.cs" />
      <Compile Include="Assets\2.Script\Log\Extensions.cs" />
      <Compile Include="Assets\2.Script\Log\LogManager.cs" />
+     <Compile Include="Assets\2.Script\Log\Postitplaced_EventLog.cs" />
      <Compile Include="Assets\2.Script\Log\TrajectoryLogger.cs" />
      <Compile Include="Assets\2.Script\Log\TrajectoryLoggerTemplate.cs" />
      <Compile Include="Assets\2.Script\Scenechange\Delete_firstmessage.cs" />
