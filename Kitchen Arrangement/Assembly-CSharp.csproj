@@ -66,11 +66,11 @@
      <Compile Include="Assets\2.Script\Log\TrajectoryLogger.cs" />
      <Compile Include="Assets\2.Script\Log\TrajectoryLoggerTemplate.cs" />
      <Compile Include="Assets\2.Script\Scenechange\Delete_firstmessage.cs" />
-     <Compile Include="Assets\2.Script\Scenechange\ScenechangeGOadmin.cs" />
-     <Compile Include="Assets\2.Script\Scenechange\ScenechangeGOintro.cs" />
      <Compile Include="Assets\2.Script\Scenechange\ScenechangeGOmain.cs" />
      <Compile Include="Assets\2.Script\Scenechange\ScenechangeGOmain0.cs" />
      <Compile Include="Assets\2.Script\Scenechange\ScenechangeGOtraining.cs" />
+     <Compile Include="Assets\2.Script\Scenechange\Scenegointro.cs" />
+     <Compile Include="Assets\2.Script\Scenechange\Scenegotraining.cs" />
      <Compile Include="Assets\9_Standard Assets\AllFurniture\Clock\Scripts\Clock.cs" />
      <Compile Include="Assets\9_Standard Assets\Shelf and Shelving Collection\Scripts\RotateMoveCamera.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />

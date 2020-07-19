@@ -3,12 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ScenechangeGOintro : MonoBehaviour
+public class Scenegotraining : MonoBehaviour
+
 {
     // Start is called before the first frame update
-    void Start()
+    public void ChangeFirstScene()
     {
         SceneManager.LoadScene("Intro");
     }
 
+    // Update is called once per frame
+    public void ChangeSecondScene()
+    {
+        SceneManager.LoadScene("Training");
+    }
 }
+
