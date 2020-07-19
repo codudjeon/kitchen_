@@ -1,8 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.IO;
+using System.Text;
+using UnityEngine;
+using System.Collections.Generic;
 
 namespace FreemixLogSystem
 {
-    public class EventLog
+    public class EventLog : MonoBehaviour
     {
         private string actor;
         private EventCategory category;
