@@ -8,11 +8,11 @@ namespace FreemixLogSystem
 {
     public class EventLog : MonoBehaviour
     {
-        private string actor,User, System;
-        private EventCategory category, Acution, Status;
-        private EventVerb eventType, Grab, Release, PostitPlaced, KitchenwarePlaced;
-        private string objectName, Postit, Kitchenware, Kitchen;
-        private Dictionary<string, string> attributes, id_postit, id_ghost, id_kitchenware, id_shelf, id_placed_postit, id_placed_kitchenware;
+        private string actor;
+        private EventCategory categorys;
+        private EventVerb eventType;
+        private string objectName;
+        private Dictionary<string, string> attributes;
 
         public EventLog(EventCategory category, string actor, EventVerb eventType, string objectName, Dictionary<string, string> attributes = null)
         {
