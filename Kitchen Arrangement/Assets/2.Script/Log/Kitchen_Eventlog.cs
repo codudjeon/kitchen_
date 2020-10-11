@@ -4,20 +4,27 @@ using VRTK;
 namespace FreemixLogSystem
 {
 
-    public class Kitchen_Eventlog : MonoBehaviour
+    public class Kitchen_eventlog : MonoBehaviour
     {
-        public void LogOnGrab(Object o, ControllerInteractionEventArgs e)
+        private GameObject GrabbedObject;
+
+        public void LogOnGrab(object o, ControllerInteractionEventArgs e)
         {
-            if (o)
-                EventLogger.Log(new EventLog(EventCategory.action, "user", EventVerb.grab, ((GameObject)o).name), null);
+            if (this.gameObject.GetComponent<VRTK_InteractGrab>().GetGrabbedObject() != null)
+            {
+                this.GrabbedObject = this.gameObject.GetComponent<VRTK_InteractGrab>().GetGrabbedObject();
+                
+                EventLogger.Log(new EventLog(EventCategory.action, "user", EventVerb.grab, this.GrabbedObject.name));
+            }
         }
 
-        public void LogOnUngrab(UnityEngine.Object o, ControllerInteractionEventArgs e)
+        public void LogOnUngrab(object o, ControllerInteractionEventArgs e)
         {
-            if (o)
-                EventLogger.Log(new EventLog(EventCategory.action, "user", EventVerb.ungrab, ((GameObject)o).name), null);
+            if (GrabbedObject != null)
+            {
+                EventLogger.Log(new EventLog(EventCategory.action, "user", EventVerb.ungrab, GrabbedObject.name));
+                this.GrabbedObject = null;
+            }
         }
-
-
     }
 }

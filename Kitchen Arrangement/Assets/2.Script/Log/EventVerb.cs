@@ -4,5 +4,4 @@
     {
         begin, end, cancel, fire, launch, grab, ungrab
     }
-
 }

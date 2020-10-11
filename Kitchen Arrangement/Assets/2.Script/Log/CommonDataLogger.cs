@@ -21,7 +21,7 @@ namespace FreemixLogSystem
             if (Camera == null)
                 Debug.LogError("main camera tracker missing");
 
-            path = LogManager.directory + @"\Common-" + LogManager.userName + LogManager.currentDt + ".csv";
+            path = LogManager.directory + "/Common-" + LogManager.userName + LogManager.currentDt + ".csv";
             string header = "AppTime;HMDPosX;HMDPosY;HMDPosZ;HMDRotX;HMDRotY;HMDRotZ;HMDRotW;LeftPosX;LeftPosY;LeftPosZ;LeftRotX;LeftRotY;LeftRotZ;LeftRotW;RightPosX;RightPosY;RightPosZ;RightRotX;RightRotY;RightRotZ;RightRotW;" + Environment.NewLine;
             File.AppendAllText(path, header);
 

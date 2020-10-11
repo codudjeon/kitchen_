@@ -12,8 +12,9 @@ namespace FreemixLogSystem
 
         private void Awake()
         {
+            print("Logmanager");
             LogManager.currentDt = DateTime.Now.ToString("yyyyMMddHHmmss");
-            LogManager.directory = "Logs-" + userName + LogManager.currentDt;
+            LogManager.directory = Application.persistentDataPath + "/Logs-" + userName + LogManager.currentDt;
             if (!Directory.Exists(LogManager.directory))
                 Directory.CreateDirectory(LogManager.directory);
         }

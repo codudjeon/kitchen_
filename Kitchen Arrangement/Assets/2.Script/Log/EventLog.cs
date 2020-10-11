@@ -11,7 +11,7 @@ namespace FreemixLogSystem
         private string actor;
         private EventCategory category;
         private EventVerb eventType;
-        private string objectNamen;
+        private string objectName;
         private Dictionary<string, string> attributes;
 
         public EventLog(EventCategory category, string actor, EventVerb eventType, string objectName, Dictionary<string, string> attributes = null)
